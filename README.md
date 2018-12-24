@@ -1,2 +1,4 @@
 # hello-world
-Application for  testing code
+
+Dusan here, 
+Im trying to make this thing work
